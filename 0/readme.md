@@ -1,5 +1,9 @@
 ## A Comprehensive Beginner's Guide to Learning Rust: Leveraging ChatGPT for Support
 
+Read the docs from the official Rust site or you are not even trying. 
+
+
+
 ## Introduction
 Rust is a systems programming language that has gained significant popularity due to its focus on safety, concurrency, and performance. It is particularly renowned for its unique ownership model, which ensures memory safety without the need for a garbage collector. For beginners, especially those unfamiliar with programming, diving into Rust can be challenging but highly rewarding. This guide provides a detailed, step-by-step approach to getting started with Rust, with a special emphasis on how to use ChatGPT as a supportive learning tool. Whether you're new to programming or just new to Rust, this guide aims to simplify your learning journey.
 
