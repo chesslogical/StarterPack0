@@ -61,6 +61,8 @@ Throughout your journey learning Rust, ChatGPT can be an invaluable tool. When y
 
 Additionally, ChatGPT can help you learn best practices in Rust programming. You can inquire about idiomatic ways to handle common tasks, such as error handling, memory management, or implementing traits. This guidance can significantly improve the quality of your code and help you become a more proficient Rust developer.
 
+Lastly, ChatGPT and similar can actually write complete Rust apps. It is utterly delusional to deny the fact that Ai will be writing most of the code, Ai will be checking most of the code, too. Ai will fix bad code. It is far superior to the human brain, and Ai does not require sleep or a 401k option. 
+
 ## Building Projects and Gaining Practical Experience
 Theoretical knowledge is vital, but practical experience is where real learning happens. Start by building small projects, such as a simple command-line tool, a basic web server, or a rudimentary game. These projects will help reinforce your understanding of Rust and provide hands-on experience with real-world applications.
 
